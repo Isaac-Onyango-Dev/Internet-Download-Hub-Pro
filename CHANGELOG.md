@@ -40,7 +40,7 @@ downloads in the browser, the way IDM does.
 
 - **A new, compact interface.** One screen holds the link bar and your
   downloads, with filters (All, Active, Finished, Failed), multi-select and
-  actions for several downloads at once. Supported Sites and Support moved to
+  actions for several downloads at once. Supported Sites moved to
   the Help menu.
 - Playlists list one video per line, so long playlists are quick to scan.
 - Installs beside the free Internet Download Hub, with its own settings and

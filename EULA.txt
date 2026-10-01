@@ -1,0 +1,147 @@
+END USER LICENSE AGREEMENT (EULA) FOR INTERNET DOWNLOAD HUB PRO
+Last Updated: 1 October 2026
+
+This End User License Agreement ("Agreement") is a binding legal contract
+between you ("User") and Isaac Onyango ("Developer") regarding the use of
+the Internet Download Hub Pro software, including its Firefox add-on and its
+associated media, printed materials, and online or electronic documentation
+(collectively, the "Software").
+
+By installing, activating, or using the Software, you agree to be bound by
+the terms of this Agreement. If you do not agree, do not install or use the
+Software.
+
+1. GRANT OF LICENSE AND DEVICE LIMIT
+
+Subject to your compliance with this Agreement and payment of applicable
+fees, the Developer grants you a personal, revocable, non-exclusive,
+non-transferable, and limited license to install and use the Software.
+
+Single Device Restriction: A single Pro license key entitles you to activate
+and use the Software on one (1) device at a time.
+
+License Transfer: You may deactivate the license on one device to move it to
+another, but simultaneous usage on multiple devices under a single key is
+strictly prohibited and will result in automatic key revocation without a
+refund.
+
+2. PRO FEATURES
+
+The "Pro" tier of the Software unlocks advanced functionalities, which
+currently include, but are not limited to:
+
+- Detection of videos and media streams on the web page you are viewing,
+  through the Firefox add-on.
+- Taking over downloads that Firefox starts, with pause and resume.
+- Downloading media that a website serves only to its own pages, using the
+  request details passed on by the add-on.
+- Naming downloaded files after the page they came from.
+
+The Developer reserves the right to modify, add, or remove Pro features in
+future updates at their sole discretion.
+
+3. INTELLECTUAL PROPERTY AND RESTRICTIONS
+
+The Software contains proprietary algorithms, specifically regarding
+advanced link parsing and video detection. The Software is licensed, not
+sold. You acknowledge that all intellectual property rights belong to the
+Developer.
+
+You may not:
+
+- Decompile, reverse engineer, disassemble, or attempt to derive the source
+  code, detection algorithms, or extraction logic of the Software.
+- Sell, rent, lease, sub-license, distribute, or lend the Software or your
+  license key to third parties.
+- Circumvent the single-device activation system or any other technical
+  restrictions in the Software.
+
+4. ACCEPTABLE USE AND COPYRIGHT DISCLAIMER
+
+The Software is provided strictly as a utility for downloading publicly
+available or personal files, and organizing them locally.
+
+User Responsibility: You are solely responsible for ensuring you have the
+legal right, authorization, or necessary permissions to download, store, and
+use any files, videos, or media accessed via the Software.
+
+No Endorsement of Piracy: The Developer does not condone, encourage, or
+endorse the unauthorized downloading, copying, or distribution of
+copyrighted material.
+
+Compliance with Laws: You agree to use the Software in full compliance with
+all applicable local, national, and international laws, including copyright
+and intellectual property regulations.
+
+5. THIRD-PARTY SERVICES AND DYNAMIC CHANGES
+
+The Software interacts with external websites, servers, and platforms over
+which the Developer has no control.
+
+Service Interruptions: You acknowledge that third-party platforms frequently
+update their code, structures, and security measures. These changes may
+temporarily or permanently disrupt the Software's link, video, or playlist
+detection capabilities.
+
+Updates: While the Developer will make reasonable efforts to issue updates
+to restore functionality, uninterrupted compatibility with third-party sites
+is not guaranteed and does not constitute grounds for a refund.
+
+6. DISCLAIMER OF WARRANTIES
+
+The Software is provided "AS IS" and "AS AVAILABLE," without warranty of any
+kind, express or implied. The Developer explicitly disclaims any warranties
+of merchantability, fitness for a particular purpose, and non-infringement.
+The Developer does not warrant that the Software will be error-free,
+completely secure, or operate without interruption.
+
+7. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by law, in no event shall the Developer be
+liable for any special, incidental, indirect, or consequential damages
+whatsoever (including, but not limited to, damages for loss of profits, data
+loss, business interruption, or account termination by third-party
+platforms) arising out of the use of or inability to use the Software, even
+if the Developer has been advised of the possibility of such damages.
+
+8. TERMINATION
+
+This Agreement is effective until terminated. Your rights under this
+Agreement will terminate automatically without notice if you fail to comply
+with any of its terms (including key sharing or reverse engineering). Upon
+termination, you must cease all use of the Software and destroy all copies
+of it.
+
+9. ELIGIBILITY
+
+The Software is intended only for adults. By installing or using it, you
+represent that you are at least eighteen (18) years of age, or the age of
+majority where you live, whichever is greater, and that you have the legal
+capacity to enter into this Agreement.
+
+10. THIRD-PARTY COMPONENTS
+
+The Software includes third-party components that are licensed to you under
+their own terms, not under this Agreement. They include yt-dlp, FFmpeg,
+streamlink, gallery-dl, N_m3u8DL-RE and Electron. Some of them, including
+FFmpeg and gallery-dl, are licensed under the GNU General Public License.
+Nothing in this Agreement restricts the rights those licenses give you, and
+the restrictions in Section 3 do not apply to those components. You can
+request their license texts, and the source code of the components licensed
+under the GNU General Public License, by opening an issue at
+https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub-Pro/issues.
+
+11. YOUR DATA
+
+The Software runs on your computer and does not send your personal data to
+the Developer. It connects to other services only to do its job: the
+websites you download from, and GitHub and Codeberg, to check for and
+download updates of the Software and its download engines.
+
+The Firefox add-on sends the following to the Software on your own computer,
+and nowhere else: the address and title of the page, the address of each
+video or file it hands over, and, for that download only, the request
+details your browser sent with it, including that website's cookie. The
+Software keeps those details only while the download is unfinished, deletes
+them when it finishes or is cancelled, and never writes the cookie to its
+logs.

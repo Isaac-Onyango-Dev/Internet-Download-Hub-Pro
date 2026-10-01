@@ -86,5 +86,6 @@ Download only what you have the right to download.
 ## Licence
 
 Internet Download Hub Pro is proprietary software. © 2026 Isaac Onyango.
-All rights reserved. Use of the app is governed by its End User Licence
-Agreement, published here with the first release.
+All rights reserved. Use of the app is governed by its
+[End User License Agreement](EULA.txt), which the installer also shows.
+It also explains what the Firefox add-on sends to the app (section 11).
